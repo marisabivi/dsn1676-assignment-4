@@ -1,0 +1,27 @@
+@-moz-viewport {width: device-width; scale:1;}
+@-ms-viewport {width: device-width; scale:1;}
+@-o-viewport {width: device-width; scale:1;}
+@-webkit-viewport {width: device-width; scale:1;}
+@viewport {width: device-width; scale:1;}
+
+html {
+    margin: 0;
+    padding: 0;
+
+}
+
+h2 {
+    background-color: #0a5959;
+    overflow: hidden;
+    color: #05a6a6;
+    margin: 0;
+    padding: .5em;
+
+}
+
+dl {
+    background-color: #ccd9b8;
+    overflow: hidden;
+    margin: 0;
+    padding: .3em 0 .5em 0;
+}
